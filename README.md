@@ -29,16 +29,15 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_TV-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@julioevasquez8684)
+[![YouTube](https://github.com/VasquezJulioe/miPortafolio/blob/main/youtube.png)](https://www.youtube.com/@julioevasquez8684)
 </br>
-[![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)]([https://mouredev.com/discord](https://discord.com/channels/1073353543773331456/1073353544230514709))
+[![Discord](https://github.com/VasquezJulioe/miPortafolio/blob/main/discord.png)]([https://mouredev.com/discord](https://discord.com/channels/1073353543773331456/1073353544230514709))
 </br>
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/vasquezjulioe)
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/juliovasquezrojas/)
+[![Twitter](https://github.com/VasquezJulioe/miPortafolio/blob/main/twitter.png)](https://twitter.com/vasquezjulioe)
+[![Instagram](https://github.com/VasquezJulioe/miPortafolio/blob/main/instagram.png)](https://www.instagram.com/juliovasquezrojas/)
 </br>
-[![Link](https://img.shields.io/badge/Link_Site-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://github.com/vasquezjulioe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/vasquezjulioe)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://vasquezjulioe.github.io/miPortafolio/)
+[![LinkedIn](https://github.com/VasquezJulioe/miPortafolio/blob/main/linkedin.png)](https://www.linkedin.com/in/vasquezjulioe)
+[![Web](https://github.com/VasquezJulioe/miPortafolio/blob/main/web.png)](https://vasquezjulioe.github.io/miPortafolio/)
 
 ## Algunos vídeos en YouTube:
 
