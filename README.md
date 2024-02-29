@@ -2,7 +2,6 @@
 ### Electronic engineer and QA
 
 ![https://github.com/vasquezjulioe](https://github.com/VasquezJulioe/miPortafolio/blob/main/Portafolio.png)
-[![YouTube Channel](https://img.shields.io/youtube/follow/vasquezjulioe8684?style=social)](https://www.youtube.com/@julioevasquez8684)
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)]([https://github.com/VasquezJulioe](https://discord.com/channels/1073353543773331456/1073353544230514709))
 [![Twitter Follow](https://img.shields.io/twitter/follow/vasquezjulioe?style=social)](https://twitter.com/VasquezJulioe)
 ![GitHub Followers](https://img.shields.io/github/followers/vasquezjulioe?style=social)
