@@ -40,3 +40,28 @@ Y alguna más...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/vasquezjulioe)
 [![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://vasquezjulioe.github.io/miPortafolio/)
 
+## Algunos vídeos en YouTube:
+
+<table style="width:100%">
+<tr>
+<td>
+<a href="https://youtu.be/RNk0275nW1Y?si=xL0h4auzK9v_ch0W">
+<img src="https://youtu.be/RNk0275nW1Y?si=xL0h4auzK9v_ch0W.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/QlYalNFJzjQ?si=c8exYbkEfTIPoBaU">
+<img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/rsLOXtBKwW0?si=Vzsp8htg5vObDIYx">
+<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
+</a>
+</td>
+</tr>
+
+
+#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
+
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
