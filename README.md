@@ -46,22 +46,17 @@ Y alguna más...
 <tr>
 <td>
 <a href="https://youtu.be/RNk0275nW1Y?si=xL0h4auzK9v_ch0W">
-<img src="https://youtu.be/RNk0275nW1Y?si=xL0h4auzK9v_ch0W.jpg">
+<img src="https://res.cloudinary.com/freelancer2222222222222222/image/upload/v1650543491/samples/2-original_agisst.png">
 </a>
 </td>
 <td>
 <a href="https://youtu.be/QlYalNFJzjQ?si=c8exYbkEfTIPoBaU">
-<img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
+<img src="https://res.cloudinary.com/freelancer2222222222222222/image/upload/v1650543491/samples/2-original_agisst.png">
 </a>
 </td>
 <td>
 <a href="https://youtu.be/rsLOXtBKwW0?si=Vzsp8htg5vObDIYx">
-<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
+<img src="https://res.cloudinary.com/freelancer2222222222222222/image/upload/v1650543491/samples/2-original_agisst.png">
 </a>
 </td>
 </tr>
-
-
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
-
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
