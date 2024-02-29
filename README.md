@@ -30,7 +30,6 @@ Y alguna más...
 ## Encuéntrame en:
 
 [![YouTube](https://github.com/VasquezJulioe/miPortafolio/blob/main/youtube.png)](https://www.youtube.com/@julioevasquez8684)
-</br>
 [![Discord](https://github.com/VasquezJulioe/miPortafolio/blob/main/discord.png)]([https://mouredev.com/discord](https://discord.com/channels/1073353543773331456/1073353544230514709))
 </br>
 [![Twitter](https://github.com/VasquezJulioe/miPortafolio/blob/main/twitter.png)](https://twitter.com/vasquezjulioe)
